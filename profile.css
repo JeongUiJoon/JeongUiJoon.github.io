@@ -1,0 +1,27 @@
+.A {
+    text-align: center; font-size : 100px;
+    border-bottom:whitesmoke 3px;
+    margin:200;
+    padding-bottom: 30px;
+    color:white
+}
+.button{
+font-size : 30px;
+text-align:middle;
+padding: 15px 32px;
+width:50%;
+display: inline-block;
+margin: 20px 350px;
+}
+
+h6{
+    font-size:15px;
+    color : whitesmoke;
+    line-height: 40px;
+}
+
+h1{
+    font-size: 55px;
+    color : rgb(211, 238, 232)
+
+}
